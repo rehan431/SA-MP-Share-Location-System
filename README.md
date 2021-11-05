@@ -1,2 +1,10 @@
 # SA-MP-Share-Location-System
 System Sharelocation For SA:MP
+
+JANGAN DI JUAL BELIKAN YAAAA !!!!
+
+DON'T SELL BUY IT !!!!!
+
+CMDNYA KETIK : /SHARELOC
+
+CMD TYPE : /SHARELOC
