@@ -9,7 +9,6 @@ if(strcmp(cmd, "/shareloc", true) == 0)
         new string[128];
         new Float:x,Float:y,Float:z;
         new giveplayer[MAX_PLAYER_NAME];
-        new giveplayerid = ReturnUser(cmdtext);
         tmp = strtok(cmdtext, idx);
         if(!strlen(tmp))
         {
